@@ -1,6 +1,8 @@
+# Krish_Villa_Organic
+Sales and Inventory Management System(SIMS) built for Krish Villa Organic
 
 
-Agriculture plays an important role in the economy of the country. Organic Agriculture is 
+ Agriculture plays an important role in the economy of the country. Organic Agriculture is 
 one of main element of those. Organic Agriculture combines tradition, innovation and science to benefit a 
 good quality of life for all involved. Mr. Krishantha Jayawardena, who owns Krish Villa Organic is 
 visionary person who having a mindset about “Healthy People, Healthy Living”. Krish Villa Organic is 
@@ -29,6 +31,7 @@ order to spread the needed of organic food industry among Krish Villa users , cu
 Delivery persons. 
 Proposed system will be developed using latest and matured technologies within the MVC 
 (Model-View-Controller) architecture.
+
 Front End Technologies - HTML , CSS , JS , jQuery Framework, Bootstrap Framework
 Back End Technologies - Ajax, PHP, CodeIgniter Framework
 Database & Server - MySQL 8.0 & Apache 2.4
